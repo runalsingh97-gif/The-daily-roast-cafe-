@@ -1,0 +1,6 @@
+{
+  "name": "The Daily Roast Cafe",
+  "description": "A warm, cozy, and aesthetic website for The Daily Roast Cafe featuring interactive menu, table reservations, vibe gallery, and live operating status.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
